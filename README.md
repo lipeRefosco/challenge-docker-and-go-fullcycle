@@ -3,5 +3,6 @@ O desafio consistem em criar uma imagem do docker que rode um programa escrito e
 
 Fiz o build usando um bash script para automatizar o build do programa e executar o `docker build` que só copia o arquivo para dentro da imagem.
 
-# Imagem
-[https://hub.docker.com/r/liperefosco/fullcycle](Link da imagem no docker hub)
+## Imagem
+[Link da imagem no docker hub](https://hub.docker.com/r/liperefosco/fullcycle)
+https://hub.docker.com/r/liperefosco/fullcycle
